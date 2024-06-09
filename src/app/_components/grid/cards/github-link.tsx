@@ -33,7 +33,7 @@ export const GithubLink = () => {
       </span>
       <span className="space-y-0.5 px-6 pb-6">
         <span className="block font-semibold">GitHub</span>
-        <span className="block text-sm">My experiments (aka projects)</span>
+        <span className="block text-sm">Projects from Furkan (I can't stop this head.)</span>
       </span>
     </a>
   )

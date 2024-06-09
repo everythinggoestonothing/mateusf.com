@@ -32,7 +32,7 @@ export function Header() {
           href="/"
           className="font-handwrite text-2xl font-bold drop-shadow-lg"
         >
-          Mateus F.
+          Furkan D.
         </Link>
         <div className="hidden w-full items-center gap-8 md:flex md:w-auto">
           <nav className="flex-wrap items-center justify-center gap-5">

@@ -24,16 +24,18 @@ export function MainTitle() {
       <div className="flex w-full items-center justify-center gap-12 md:justify-between">
         <div className="flex flex-col gap-4">
           <span className="w-min text-7xl font-bold text-black drop-shadow-2xl dark:text-neutral-50 md:w-max">
-            Mateus Felipe,
+            I'm Furkan Denizhan,
           </span>
           <span className="flex items-center text-2xl text-neutral-400 md:text-3xl ">
             <Typewriter
               words={[
-                'Tech stuff enthusiast',
-                'Passionate about philosophy',
-                'Nature admirer',
-                'Enjoyer of good books',
-                'Full stack developer'
+                'Iconoclastic Entrepreneur',
+                'Founder of Suku Tech',
+                'Senior SysOps/DevOps Engineer',
+                'Junior Network Engineer',
+                'Philosophy/Psychology Enthusiast',
+                'Literary Aficionado',
+                'Poet of Code'
               ]}
               cursor
               loop
